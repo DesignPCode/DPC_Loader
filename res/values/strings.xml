@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Loader_DPC</string>
+    <string name="menu_configure_locale">更换语言</string>
+
+</resources>
